@@ -1,0 +1,6 @@
+showdown
+showdown.exe
+tests_runner
+tests_runner.exe
+*.o
+.DS_Store
